@@ -17,11 +17,10 @@
 
 ## 📚 Atualmente estudando
 
-- HTML5
-- CSS3
-- JavaScript
+- Python
 - Git e GitHub
-- Lógica de Programação
+- AWS
+- ERP Protheus
 
 ---
 
