@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Julia</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação... <br>
+💻 Cientista em formação... <br>
 📚 Estudando programação e criando projetos para meu portfólio.
 </p>
 
