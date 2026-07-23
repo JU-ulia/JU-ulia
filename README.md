@@ -20,7 +20,7 @@
 - Python
 - Git e GitHub
 - AWS
-- ERP Protheus
+- TOTVS Protheus
 
 ---
 
