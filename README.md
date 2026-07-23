@@ -45,15 +45,6 @@ objetivo é evoluir profissionalmente impulsionando resultados, utilizando anál
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JU-ulia&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=JU-ulia&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Contato
 
 📧 Email: juliagarrido070@gmail.com
